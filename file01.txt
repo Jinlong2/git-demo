@@ -3,3 +3,4 @@ publicstaticvoid卖弄publicstaticvoid卖弄publicstaticvoid卖弄publicstaticvo
 publicstaticvoid卖弄publicstaticvoid卖弄publicstaticvoid卖弄publicstaticvoidmain
 master first update
 hot-fix first update
+Integer first update
